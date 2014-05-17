@@ -47,7 +47,7 @@ Finally, add the `animate-plus` css class to any elements you want to animate.
 ```
 
 ###Attributes
-Everything is specified using HTML5 `data-` attributes. Attributes always start with `data-animation-*` except for `data-animations`. See a list of available attribuites below.
+Everything is specified using HTML5 `data-*` attributes. Attributes always start with `data-animation-*` except for `data-animations`. See a list of available attribuites below.
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attribute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |---------|-----------|
