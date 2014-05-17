@@ -1,6 +1,4 @@
 #Animate-plus.js
---------------
-
 `animate-plus.js` is a jQuery plugin that extends [animate.css](http://daneden.github.io/animate.css/) functionality. No javascript coding required!
 
 - Do multiple animations, on multiple elements
@@ -51,7 +49,7 @@ Finally, add the `animate-plus` css class to any elements you want to animate.
 ###Attributes
 Everything is specified using HTML5 `data-` attributes. Attributes always start with `data-animation-*` except for `data-animations`. See a list of available attribuites below.
 
-|Attribute|Description|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attribute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |---------|-----------|
 |`data-animations`|List of comma delimited animation names. By default the animations are executed from left to rigth. Valid values are `animate.css` [class names](http://daneden.github.io/animate.css/). This is the only **required attribute**.|
 |`data-animation-group`|Name of the animation group. You can group animated elements using this attribute. Please refrain from using names that begin with an underscore (_), that's reserved for internal use.|
