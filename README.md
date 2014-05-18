@@ -1,4 +1,4 @@
-#Animate-plus.js
+#![Animate-plus.js](http://telmo.pt/animate-plus.js/images/animatepluslogo.jpg)
 `animate-plus.js` is a jQuery plugin that extends [animate.css](http://daneden.github.io/animate.css/) functionality. No javascript coding required!
 
 - Do multiple animations, on multiple elements
