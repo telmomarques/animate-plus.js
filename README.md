@@ -1,4 +1,4 @@
-#![Animate-plus.js](http://telmo.pt/animate-plus.js/images/animatepluslogo.jpg)
+#![Animate-plus.js](http://telmo.pt/animate-plus-js/images/animatepluslogo.jpg)
 `animate-plus.js` is a jQuery plugin that extends [animate.css](http://daneden.github.io/animate.css/) functionality. No javascript coding required!
 
 - Do multiple animations, on multiple elements
@@ -63,7 +63,7 @@ Everything is specified using HTML5 `data-*` attributes. Attributes always start
 ##Examples
 ------------
 
-[See live examples here.](http://telmo.pt/animate-plus.js/#liveExamples)
+[See live examples here.](http://telmo.pt/animate-plus-js/#liveExamples)
 
 1. One element with multiple animations. The animations will execute one at a time, from left to right, using default duration and delay.
 
