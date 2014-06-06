@@ -134,5 +134,8 @@ Everything is specified using HTML5 `data-*` attributes. Attributes always start
     </span>
     ```
     
+##Contributing
+Contributions welcome via pull request!
+    
 ##License
 Animate-plus.js is licensed under the MIT License. Please see `LICENSE.txt` file distributed with this software.
