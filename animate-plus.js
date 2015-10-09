@@ -1,6 +1,6 @@
 /*
  * Animate-plus.js
- * Version 0.1
+ * Version 0.2
  * A jQuery plugin that extends animate.css (http://daneden.github.io/animate.css/) functionality.
  * 
  * Author: Telmo Marques
@@ -417,6 +417,11 @@
         //For each group
         for(var group in this.map)
         {
+            if(!this.map.hasOwnProperty(group))
+            {
+                continue;
+            }
+            
             //Is this a group that should only be animated when visible?
             if(this.map[group].animateWhenVisible)
             {
