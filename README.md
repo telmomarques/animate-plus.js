@@ -1,4 +1,5 @@
-#![Animate-plus.js](http://telmo.pt/animate-plus-js/images/animatepluslogo.jpg)
+![Animate-plus.js](http://telmo.pt/animate-plus-js/images/animatepluslogo.jpg)
+
 `animate-plus.js` is a jQuery plugin that extends [animate.css](http://daneden.github.io/animate.css/) functionality. No javascript coding required!
 
 - Do multiple animations, on multiple elements
@@ -6,7 +7,7 @@
 - Make elements animate while scrolling
 - Group elements in independent animation groups
 
-##Quick start
+## Quick start
 
 1. Include [jQuery](http://jquery.com/download) and [Animate.css](http://daneden.github.io/animate.css)
 2. Add `animate-plus` css class to element
@@ -28,9 +29,9 @@ See more examples [here](#examples).
 
 For a full list of options see [Attributes](#attributes).
 
-##Documentation
+## Documentation
 ------------
-###First things first
+### First things first
 Begin by downloading and including [animate.css](http://daneden.github.io/animate.css/) and [jQuery](http://jquery.com/download/) in your HTML document.
 Next, download and include `animate-plus.min.js`
 
@@ -46,7 +47,7 @@ Finally, add the `animate-plus` css class to any elements you want to animate.
 <span class="animate-plus">...</span>
 ```
 
-###Attributes
+### Attributes
 Everything is specified using HTML5 `data-*` attributes. Attributes always start with `data-animation-*` except for `data-animations`. See a list of available attribuites below.
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attribute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
@@ -60,7 +61,7 @@ Everything is specified using HTML5 `data-*` attributes. Attributes always start
 |`data-animation-reset-offscreen`|Reset animation when group goes off screen. The group will be reseted as soon as one group element goes off screen. This attribute only has effect when used together with `data-animation-when-visible`. Valid value is `true`. |
 |`data-animation-repeat`|Loop animation group indefinitely. Valid value is `true`.|
 
-##Examples
+## Examples
 ------------
 
 [See live examples here.](http://telmo.pt/animate-plus-js/#liveExamples)
@@ -134,8 +135,8 @@ Everything is specified using HTML5 `data-*` attributes. Attributes always start
     </span>
     ```
     
-##Contributing
+## Contributing
 Contributions welcome via pull request!
     
-##License
+## License
 Animate-plus.js is licensed under the MIT License. Please see `LICENSE.txt` file distributed with this software.
